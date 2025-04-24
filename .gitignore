@@ -1,0 +1,12 @@
+/.ipynb_checkpoints
+/env
+/NLP_Major.zip
+/parallel-n
+/SPE_PY_CODE
+/tokenizer
+/trash
+/__pycache__
+*/__pycache__
+/train_data.npy
+/numerical_data.npy
+/temp_hi.txt

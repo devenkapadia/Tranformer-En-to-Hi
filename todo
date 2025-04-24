@@ -1,0 +1,302 @@
+Difficulties:
+- leanring pytorch and the model training + gpu training
+- training randomly stopping on laptop but for some reason run well on colab
+- needed more data and epochs to give some resonalble outputs
+
+Blue Score reference: https://pytorch.org/text/stable/data_metrics.html
+https://www.digitalocean.com/community/tutorials/bleu-score-in-python
+-------------------------------------------------------------
+OUTPUT:
+Encoder Embedding Params: 3840000
+Decoder Embedding Params: 3840000
+Transformer Params: 7500080
+Epoch 3/20
+Epoch 3 Batch 1000/10156
+Epoch 3 Batch 2000/10156
+Epoch 3 Batch 3000/10156
+Epoch 3 Batch 4000/10156
+Epoch 3 Batch 5000/10156
+Epoch 3 Batch 6000/10156
+Epoch 3 Batch 7000/10156
+Epoch 3 Batch 8000/10156
+Epoch 3 Batch 9000/10156
+Epoch 3 Batch 10000/10156
+Training Loss: 2.2554
+Validation Loss: 2.0885
+Model saved successfully!
+Epoch 4/20
+Epoch 4 Batch 1000/10156
+Epoch 4 Batch 2000/10156
+Epoch 4 Batch 3000/10156
+Epoch 4 Batch 4000/10156
+Epoch 4 Batch 5000/10156
+Epoch 4 Batch 6000/10156
+Epoch 4 Batch 7000/10156
+Epoch 4 Batch 8000/10156
+Epoch 4 Batch 9000/10156
+Epoch 4 Batch 10000/10156
+Training Loss: 2.1292
+Validation Loss: 1.9925
+Model saved successfully!
+Epoch 5/20
+Epoch 5 Batch 1000/10156
+Epoch 5 Batch 2000/10156
+Epoch 5 Batch 3000/10156
+Epoch 5 Batch 4000/10156
+Epoch 5 Batch 5000/10156
+Epoch 5 Batch 6000/10156
+Epoch 5 Batch 7000/10156
+Epoch 5 Batch 8000/10156
+Epoch 5 Batch 9000/10156
+Epoch 5 Batch 10000/10156
+Training Loss: 2.0555
+Validation Loss: 1.9357
+Model saved successfully!
+Current Date and Time = 2025-04-10 13:26:18
+Epoch 6/20
+Epoch 6 Batch 1000/10156
+Epoch 6 Batch 2000/10156
+Epoch 6 Batch 3000/10156
+Epoch 6 Batch 4000/10156
+Epoch 6 Batch 5000/10156
+Epoch 6 Batch 6000/10156
+Epoch 6 Batch 7000/10156
+Epoch 6 Batch 8000/10156
+Epoch 6 Batch 9000/10156
+Epoch 6 Batch 10000/10156
+Training Loss: 2.0042
+Validation Loss: 1.8901
+Current Date and Time = 2025-04-10 13:47:57
+Current Date and Time = 2025-04-10 13:51:49
+Epoch 7/20
+Epoch 7 Batch 500/10156
+Epoch 7 Batch 1000/10156
+Epoch 7 Batch 1500/10156
+Epoch 7 Batch 2000/10156
+Epoch 7 Batch 2500/10156
+Epoch 7 Batch 3000/10156
+Epoch 7 Batch 3500/10156
+Epoch 7 Batch 4000/10156
+Epoch 7 Batch 4500/10156
+Epoch 7 Batch 5000/10156
+Epoch 7 Batch 5500/10156
+Epoch 7 Batch 6000/10156
+Epoch 7 Batch 6500/10156
+Epoch 7 Batch 7000/10156
+Epoch 7 Batch 7500/10156
+Epoch 7 Batch 8000/10156
+Epoch 7 Batch 8500/10156
+Epoch 7 Batch 9000/10156
+Epoch 7 Batch 9500/10156
+Epoch 7 Batch 10000/10156
+Training Loss: 1.9758
+Validation Loss: 1.8636
+Model saved successfully!
+Current Date and Time = 2025-04-10 14:14:46
+Current Date and Time = 2025-04-10 14:25:54
+Epoch 8/20
+Epoch 8 Batch 500/10156
+Epoch 8 Batch 1000/10156
+Epoch 8 Batch 1500/10156
+Epoch 8 Batch 2000/10156
+Epoch 8 Batch 2500/10156
+Epoch 8 Batch 3000/10156
+Epoch 8 Batch 3500/10156
+Epoch 8 Batch 4000/10156
+Epoch 8 Batch 4500/10156
+Epoch 8 Batch 5000/10156
+Epoch 8 Batch 5500/10156
+Epoch 8 Batch 6000/10156
+Epoch 8 Batch 6500/10156
+Epoch 8 Batch 7000/10156
+Epoch 8 Batch 7500/10156
+Epoch 8 Batch 8000/10156
+Epoch 8 Batch 8500/10156
+Epoch 8 Batch 9000/10156
+Epoch 8 Batch 9500/10156
+Epoch 8 Batch 10000/10156
+Training Loss: 1.9482
+Validation Loss: 1.8367
+Model saved successfully!
+Current Date and Time = 2025-04-10 14:47:30
+Epoch 9/20
+Epoch 9 Batch 500/10156
+Epoch 9 Batch 1000/10156
+Epoch 9 Batch 1500/10156
+Epoch 9 Batch 2000/10156
+Epoch 9 Batch 2500/10156
+Epoch 9 Batch 3000/10156
+Epoch 9 Batch 3500/10156
+Epoch 9 Batch 4000/10156
+Epoch 9 Batch 4500/10156
+Epoch 9 Batch 5000/10156
+Epoch 9 Batch 5500/10156
+Epoch 9 Batch 6000/10156
+Epoch 9 Batch 6500/10156
+Epoch 9 Batch 7000/10156
+Epoch 9 Batch 7500/10156
+Epoch 9 Batch 8000/10156
+Epoch 9 Batch 8500/10156
+Epoch 9 Batch 9000/10156
+Epoch 9 Batch 9500/10156
+Epoch 9 Batch 10000/10156
+Training Loss: 1.9201
+Validation Loss: 1.8158
+Model saved successfully!
+Current Date and Time = 2025-04-10 15:09:02
+Epoch 10/20
+Epoch 10 Batch 500/10156
+Epoch 10 Batch 1000/10156
+Epoch 10 Batch 1500/10156
+Epoch 10 Batch 2000/10156
+Epoch 10 Batch 2500/10156
+Epoch 10 Batch 3000/10156
+Epoch 10 Batch 3500/10156
+Epoch 10 Batch 4000/10156
+Epoch 10 Batch 4500/10156
+Epoch 10 Batch 5000/10156
+Epoch 10 Batch 5500/10156
+Epoch 10 Batch 6000/10156
+Epoch 10 Batch 6500/10156
+Epoch 10 Batch 7000/10156
+Epoch 10 Batch 7500/10156
+Epoch 10 Batch 8000/10156
+Epoch 10 Batch 8500/10156
+Epoch 10 Batch 9000/10156
+Epoch 10 Batch 9500/10156
+Epoch 10 Batch 10000/10156
+Training Loss: 1.8996
+Validation Loss: 1.7936
+Model saved successfully!
+Current Date and Time = 2025-04-10 15:31:09
+Epoch 11/20
+Epoch 11 Batch 500/10156
+Epoch 11 Batch 1000/10156
+Epoch 11 Batch 1500/10156
+Epoch 11 Batch 2000/10156
+Epoch 11 Batch 2500/10156
+Epoch 11 Batch 3000/10156
+Epoch 11 Batch 3500/10156
+Epoch 11 Batch 4000/10156
+Epoch 11 Batch 4500/10156
+Epoch 11 Batch 5000/10156
+Epoch 11 Batch 5500/10156
+Epoch 11 Batch 6000/10156
+Epoch 11 Batch 6500/10156
+Epoch 11 Batch 7000/10156
+Epoch 11 Batch 7500/10156
+Epoch 11 Batch 8000/10156
+Epoch 11 Batch 8500/10156
+Epoch 11 Batch 9000/10156
+Epoch 11 Batch 9500/10156
+Epoch 11 Batch 10000/10156
+Training Loss: 1.8822
+Validation Loss: 1.7764
+Model saved successfully!
+Current Date and Time = 2025-04-10 15:52:41
+Epoch 12/20
+Epoch 12 Batch 500/10156
+Epoch 12 Batch 1000/10156
+Epoch 12 Batch 1500/10156
+Epoch 12 Batch 2000/10156
+Epoch 12 Batch 2500/10156
+Epoch 12 Batch 3000/10156
+Epoch 12 Batch 3500/10156
+Epoch 12 Batch 4000/10156
+Epoch 12 Batch 4500/10156
+Epoch 12 Batch 5000/10156
+Epoch 12 Batch 5500/10156
+Epoch 12 Batch 6000/10156
+Epoch 12 Batch 6500/10156
+Epoch 12 Batch 7000/10156
+Epoch 12 Batch 7500/10156
+Epoch 12 Batch 8000/10156
+Epoch 12 Batch 8500/10156
+Epoch 12 Batch 9000/10156
+Epoch 12 Batch 9500/10156
+Epoch 12 Batch 10000/10156
+Training Loss: 1.8678
+Validation Loss: 1.7703
+Model saved successfully!
+Current Date and Time = 2025-04-10 16:14:27
+Epoch 13/20
+Epoch 13 Batch 500/10156
+Epoch 13 Batch 1000/10156
+Epoch 13 Batch 1500/10156
+Epoch 13 Batch 2000/10156
+Epoch 13 Batch 2500/10156
+Epoch 13 Batch 3000/10156
+Epoch 13 Batch 3500/10156
+Epoch 13 Batch 4000/10156
+Epoch 13 Batch 4500/10156
+Epoch 13 Batch 5000/10156
+Epoch 13 Batch 5500/10156
+Epoch 13 Batch 6000/10156
+Epoch 13 Batch 6500/10156
+Epoch 13 Batch 7000/10156
+Epoch 13 Batch 7500/10156
+Epoch 13 Batch 8000/10156
+Epoch 13 Batch 8500/10156
+Epoch 13 Batch 9000/10156
+Epoch 13 Batch 9500/10156
+Epoch 13 Batch 10000/10156
+Training Loss: 1.8554
+Validation Loss: 1.7572
+Model saved successfully!
+Current Date and Time = 2025-04-10 16:36:11
+Epoch 14/20
+Epoch 14 Batch 500/10156
+Epoch 14 Batch 1000/10156
+Epoch 14 Batch 1500/10156
+Epoch 14 Batch 2000/10156
+Epoch 14 Batch 2500/10156
+Epoch 14 Batch 3000/10156
+Epoch 14 Batch 3500/10156
+Epoch 14 Batch 4000/10156
+Epoch 14 Batch 4500/10156
+Epoch 14 Batch 5000/10156
+Epoch 14 Batch 5500/10156
+Epoch 14 Batch 6000/10156
+Epoch 14 Batch 6500/10156
+Epoch 14 Batch 7000/10156
+Epoch 14 Batch 7500/10156
+Epoch 14 Batch 8000/10156
+Epoch 14 Batch 8500/10156
+Epoch 14 Batch 9000/10156
+Epoch 14 Batch 9500/10156
+Epoch 14 Batch 10000/10156
+Training Loss: 1.8442
+Validation Loss: 1.7434
+Model saved successfully!
+Current Date and Time = 2025-04-10 16:58:13
+
+Current Date and Time = 2025-04-10 18:59:15
+Epoch 20/20
+Epoch 20 Batch 500/10156
+Epoch 20 Batch 1000/10156
+Epoch 20 Batch 1500/10156
+Epoch 20 Batch 2000/10156
+Epoch 20 Batch 2500/10156
+Epoch 20 Batch 3000/10156
+Epoch 20 Batch 3500/10156
+Epoch 20 Batch 4000/10156
+Epoch 20 Batch 4500/10156
+Epoch 20 Batch 5000/10156
+Epoch 20 Batch 5500/10156
+Epoch 20 Batch 6000/10156
+Epoch 20 Batch 6500/10156
+Epoch 20 Batch 7000/10156
+Epoch 20 Batch 7500/10156
+Epoch 20 Batch 8000/10156
+Epoch 20 Batch 8500/10156
+Epoch 20 Batch 9000/10156
+Epoch 20 Batch 9500/10156
+Epoch 20 Batch 10000/10156
+Training Loss: 1.8028
+Validation Loss: 1.7153
+Model saved successfully
+Final Training Loss: 1.8028
+Final Validation Loss: 1.7153
+
+
+Overall time taken: 4h:57m:15s
